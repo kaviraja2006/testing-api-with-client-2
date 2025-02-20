@@ -111,3 +111,6 @@ create schema.js file and creat the schema in that file.
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
+
+The recorded video link:
+https://drive.google.com/file/d/1g0fgLdaiYbOYvwEID1O4cJ7dCwf1wmUz/view?usp=sharing
